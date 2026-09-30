@@ -1,0 +1,437 @@
+{
+  "posts": [
+    {
+      "id": "e408bca4-90e5-4493-9817-f9ed05ca68f4",
+      "content": "এমন মানুষের সাথে বন্ধুত্ব করেন, যে আপনার থেকে আপনাদের বন্ধুত্বকে বেশী দাম দেয়।\n",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "8fc0f0d6-396a-4ef4-922b-27ef5b4e8526",
+        "name": "Tapas Adhikary",
+        "avatar": "uploads/avatar/avatar-1708770640883-148182382.png"
+      },
+      "comments": [
+        {
+          "id": "953b5c52-9245-489d-bfb3-d72af516517f",
+          "comment": "awesome",
+          "createdAt": "2026-07-17T08:26:15.095Z",
+          "author": {
+            "id": "62b7565b-11c0-4eba-9b9e-6128eb439908",
+            "name": "developer santo1",
+            "avatar": "uploads/avatar/avatar-1784276755317-349441273.PNG"
+          }
+        },
+        {
+          "id": "fd68de25-ff05-4977-ad72-578c69e8b8f9",
+          "comment": "awesome",
+          "createdAt": "2026-07-17T08:33:06.832Z",
+          "author": {
+            "id": "62b7565b-11c0-4eba-9b9e-6128eb439908",
+            "name": "developer santo1",
+            "avatar": "uploads/avatar/avatar-1784276755317-349441273.PNG"
+          }
+        },
+        {
+          "id": "75f7c5b5-ad60-4a32-a786-1b694942fd72",
+          "comment": "awesome",
+          "createdAt": "2026-07-17T08:36:13.778Z",
+          "author": {
+            "id": "62b7565b-11c0-4eba-9b9e-6128eb439908",
+            "name": "developer santo1",
+            "avatar": "uploads/avatar/avatar-1784276755317-349441273.PNG"
+          }
+        },
+        {
+          "id": "bfacf49a-786a-4ae5-ab2d-fc0d2eb79aab",
+          "comment": "awesome",
+          "createdAt": "2026-07-17T08:37:31.009Z",
+          "author": {
+            "id": "62b7565b-11c0-4eba-9b9e-6128eb439908",
+            "name": "developer santo1",
+            "avatar": "uploads/avatar/avatar-1784276755317-349441273.PNG"
+          }
+        },
+        {
+          "id": "6b41d812-8467-4f87-95a8-16cbf809b6c8",
+          "comment": "fantastic",
+          "createdAt": "2026-07-17T08:37:58.209Z",
+          "author": {
+            "id": "62b7565b-11c0-4eba-9b9e-6128eb439908",
+            "name": "developer santo1",
+            "avatar": "uploads/avatar/avatar-1784276755317-349441273.PNG"
+          }
+        },
+        {
+          "id": "e18a8e61-84bc-487c-a5ac-4826df528030",
+          "comment": "hi",
+          "createdAt": "2026-09-15T17:40:13.196Z",
+          "author": {
+            "id": "5e68ae09-7302-4c2e-98ad-b19763fcf7c9",
+            "name": "Md Bijoy Hasan",
+            "avatar": "uploads/avatar/avatar-1789405012151-279778478.jpg"
+          }
+        },
+        {
+          "id": "f4f65323-ab02-460a-882b-db4951b93725",
+          "comment": "nice",
+          "createdAt": "2026-09-15T18:21:20.864Z",
+          "author": {
+            "id": "5e68ae09-7302-4c2e-98ad-b19763fcf7c9",
+            "name": "Md Bijoy Hasan",
+            "avatar": "uploads/avatar/avatar-1789405012151-279778478.jpg"
+          }
+        }
+      ],
+      "likes": [
+        "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "5e68ae09-7302-4c2e-98ad-b19763fcf7c9"
+      ],
+      "createAt": "2024-02-24T12:29:59.028Z"
+    },
+    {
+      "id": "5f0e2fc2-39c2-4d65-8fe2-0bf10dc80d92",
+      "content": "বই আছে, কিন্তু পরার সময় নেই। আমি অবসরে ব্যাস্ততম।\nকিছু বই তো আবার নিজে নিজেই অবসর নিয়েছে…",
+      "image": "uploads/posts/image-1708777877789-380778733.jpg",
+      "postType": "image",
+      "author": {
+        "id": "8fc0f0d6-396a-4ef4-922b-27ef5b4e8526",
+        "name": "Tapas Adhikary",
+        "avatar": "uploads/avatar/avatar-1708770640883-148182382.png"
+      },
+      "comments": [
+        {
+          "id": "8859fa0e-1b9b-4263-932c-9cbab095737b",
+          "comment": "awesome",
+          "createdAt": "2026-07-17T08:36:38.609Z",
+          "author": {
+            "id": "62b7565b-11c0-4eba-9b9e-6128eb439908",
+            "name": "developer santo1",
+            "avatar": "uploads/avatar/avatar-1784276755317-349441273.PNG"
+          }
+        },
+        {
+          "id": "b80fb36e-1797-4116-a445-dc8fb9222ece",
+          "comment": "awesome",
+          "createdAt": "2026-07-17T08:36:39.591Z",
+          "author": {
+            "id": "62b7565b-11c0-4eba-9b9e-6128eb439908",
+            "name": "developer santo1",
+            "avatar": "uploads/avatar/avatar-1784276755317-349441273.PNG"
+          }
+        },
+        {
+          "id": "8b6e7b12-b31b-4606-a5cc-ac5a7df7cb09",
+          "comment": "সবাইকে অনেক ভালো লাগছে 😍",
+          "createdAt": "2026-09-11T08:49:20.572Z",
+          "author": {
+            "id": "87d201b9-9768-4986-aabb-2e679a111243",
+            "name": "saadh Hasan",
+            "avatar": "uploads/avatar/avatar-1788859828377-62370523.jpeg"
+          }
+        },
+        {
+          "id": "bb7ad07a-f1b7-41d4-8449-6a349aae4557",
+          "comment": "nice",
+          "createdAt": "2026-09-14T18:45:06.845Z",
+          "author": {
+            "id": "5e68ae09-7302-4c2e-98ad-b19763fcf7c9",
+            "name": "Md Bijoy Hasan",
+            "avatar": "uploads/avatar/avatar-1789405012151-279778478.jpg"
+          }
+        },
+        {
+          "id": "d2563052-0df2-43ba-83bd-85e4aba22680",
+          "comment": "সবাইকে অনেক ভালো লাগছে 😍",
+          "createdAt": "2026-09-15T07:11:35.238Z",
+          "author": {
+            "id": "87d201b9-9768-4986-aabb-2e679a111243",
+            "name": "saadh Hasan",
+            "avatar": "uploads/avatar/avatar-1789374162989-748369210.jpg"
+          }
+        }
+      ],
+      "likes": [
+        "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "87d201b9-9768-4986-aabb-2e679a111243",
+        "5e68ae09-7302-4c2e-98ad-b19763fcf7c9"
+      ],
+      "createAt": "2024-02-24T12:31:17.794Z"
+    },
+    {
+      "id": "00ad2787-ec06-407c-9e5f-cd7acba20371",
+      "content": "While ESLint is designed to be run on the command line, it’s possible to use ESLint programmatically through the Node.js API. The purpose of the Node.js API is to allow plugin and tool authors to use the ESLint functionality directly, without going through the command line interface.\n\nNote: Use undocumented parts of the API at your own risk. Only those parts that are specifically mentioned in this document are approved for use and will remain stable and reliable. Anything left undocumented is unstable and may change or be removed at any point.",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "name": "Saad Hasan",
+        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+      },
+      "comments": [],
+      "likes": [
+        "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "5e68ae09-7302-4c2e-98ad-b19763fcf7c9"
+      ],
+      "createAt": "2024-02-25T06:03:47.813Z"
+    },
+    {
+      "id": "82e8e57d-e7b8-4cfb-ac70-ff6283f0e8bf",
+      "content": "While ESLint is designed to be run on the command line, it’s possible to use ESLint programmatically through the Node.js API. The purpose of the Node.js API is to allow plugin and tool authors to use the ESLint functionality directly, without going through the command line interface.\n\nNote: Use undocumented parts of the API at your own risk. Only those parts that are specifically mentioned in this document are approved for use and will remain stable and reliable. Anything left undocumented is unstable and may change or be removed at any point.",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+        "name": "Saad Hasan",
+        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
+      },
+      "comments": [],
+      "likes": [
+        "5e68ae09-7302-4c2e-98ad-b19763fcf7c9"
+      ],
+      "createAt": "2024-02-25T06:25:58.990Z"
+    },
+    {
+      "id": "d271683d-6bf5-4684-8342-a0261cf6d349",
+      "content": "rokibul santo",
+      "image": "uploads/posts/image-1784314019734-333079868.jpg",
+      "postType": "image",
+      "author": {
+        "id": "62b7565b-11c0-4eba-9b9e-6128eb439908",
+        "name": "developer santo1",
+        "avatar": "uploads/avatar/avatar-1784276755317-349441273.PNG"
+      },
+      "comments": [
+        {
+          "id": "f7a414ca-e143-4783-8e38-b67059fd5c72",
+          "comment": "awesome",
+          "createdAt": "2026-07-17T18:47:39.716Z",
+          "author": {
+            "id": "62b7565b-11c0-4eba-9b9e-6128eb439908",
+            "name": "developer santo1",
+            "avatar": "uploads/avatar/avatar-1784276755317-349441273.PNG"
+          }
+        },
+        {
+          "id": "04148799-c4bd-4c87-9d20-a2bc589d81f6",
+          "comment": "sei",
+          "createdAt": "2026-09-14T18:45:52.836Z",
+          "author": {
+            "id": "5e68ae09-7302-4c2e-98ad-b19763fcf7c9",
+            "name": "Md Bijoy Hasan",
+            "avatar": "uploads/avatar/avatar-1789405012151-279778478.jpg"
+          }
+        }
+      ],
+      "likes": [
+        "62b7565b-11c0-4eba-9b9e-6128eb439908"
+      ],
+      "createAt": "2026-07-17T18:46:59.742Z"
+    },
+    {
+      "id": "6d565520-fa1f-4207-abcb-87e6522a1bfb",
+      "content": "Today I am finishing my project",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "62b7565b-11c0-4eba-9b9e-6128eb439908",
+        "name": "developer santo1",
+        "avatar": "uploads/avatar/avatar-1784276755317-349441273.PNG"
+      },
+      "comments": [],
+      "likes": [],
+      "createAt": "2026-07-17T18:47:28.838Z"
+    },
+    {
+      "id": "d49b851a-1692-46bb-a738-499f463abf6c",
+      "content": "বই আছে, কিন্তু পরার সময় নেই। আমি অবসরে ব্যাস্ততম। কিছু বই তো আবার নিজে নিজেই অবসর নিয়েছে…",
+      "image": "uploads/posts/image-1789110652222-94815994.png",
+      "postType": "image",
+      "author": {
+        "id": "87d201b9-9768-4986-aabb-2e679a111243",
+        "name": "saadh Hasan",
+        "avatar": "uploads/avatar/avatar-1788859828377-62370523.jpeg"
+      },
+      "comments": [],
+      "likes": [
+        "5e68ae09-7302-4c2e-98ad-b19763fcf7c9"
+      ],
+      "createAt": "2026-09-11T07:10:52.242Z"
+    },
+    {
+      "id": "0caf0a98-59aa-427f-a8ec-c1c4282add61",
+      "content": "This is my second post",
+      "image": "uploads/posts/image-1789122872185-408389265.png",
+      "postType": "image",
+      "author": {
+        "id": "87d201b9-9768-4986-aabb-2e679a111243",
+        "name": "saadh Hasan",
+        "avatar": "uploads/avatar/avatar-1788859828377-62370523.jpeg"
+      },
+      "comments": [],
+      "likes": [],
+      "createAt": "2026-09-11T10:34:32.272Z"
+    },
+    {
+      "id": "f2e6ee93-cd2c-4613-b601-eff16967eeaf",
+      "content": "Hello bijoy",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "5e68ae09-7302-4c2e-98ad-b19763fcf7c9",
+        "name": "Md Bijoy Hasan",
+        "avatar": "uploads/avatar/avatar-1789405012151-279778478.jpg"
+      },
+      "comments": [],
+      "likes": [],
+      "createAt": "2026-09-15T17:47:49.510Z"
+    },
+    {
+      "id": "919d6e8d-3619-4115-b749-e8e70970979f",
+      "content": "weather",
+      "image": "uploads/posts/image-1789496138177-980946521.jpg",
+      "postType": "image",
+      "author": {
+        "id": "5e68ae09-7302-4c2e-98ad-b19763fcf7c9",
+        "name": "Md Bijoy Hasan",
+        "avatar": "uploads/avatar/avatar-1789405012151-279778478.jpg"
+      },
+      "comments": [
+        {
+          "id": "c88dcd46-4075-4777-a6bc-76e1366c9c89",
+          "comment": "nice",
+          "createdAt": "2026-09-30T17:30:16.388Z",
+          "author": {
+            "id": "5e68ae09-7302-4c2e-98ad-b19763fcf7c9",
+            "name": "Md Bijoy Hasan",
+            "avatar": "uploads/avatar/avatar-1789405012151-279778478.jpg"
+          }
+        }
+      ],
+      "likes": [],
+      "createAt": "2026-09-15T18:15:38.193Z"
+    }
+  ],
+  "comments": [],
+  "users": [
+    {
+      "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
+      "password": "$2b$08$t5Aar/0hgHTMdCeLtn3KhOlWDVIAHcFUTkRPeWASPhbYAea5kxKvW",
+      "firstName": "Saad",
+      "lastName": "Hasan",
+      "avatar": "uploads/avatar/avatar-1784270655919-267765384.jpg",
+      "email": "saadh392@mail.com",
+      "bio": "I am professional react developer",
+      "firstname": "Saad"
+    },
+    {
+      "id": "1aeef0f0-77ba-456b-8b5b-d4145a9b5410",
+      "password": "$2b$08$Ppzu84hycImxTC6C7jAuGOs6fNBf4z7RJ7nqNldd/Lcj5JQaegmBK",
+      "firstName": "Sumit",
+      "lastName": "Saha",
+      "avatar": "uploads/avatar/avatar-1708777668890-622477379.png",
+      "email": "sumitsaha@learnwithsumit.com"
+    },
+    {
+      "id": "8fc0f0d6-396a-4ef4-922b-27ef5b4e8526",
+      "password": "$2b$08$XLgmuBqthkljtrVqSXdnk.OotUpoGnArVSrn6CHHt/upkUGTX7N0C",
+      "firstName": "Tapas",
+      "lastName": "Adhikary",
+      "avatar": "uploads/avatar/avatar-1708770640883-148182382.png",
+      "email": "atapas@email.com",
+      "bio": "A Ghost"
+    },
+    {
+      "id": "ea168626-058e-49dd-b23c-3000e7bd0172",
+      "password": "$2b$08$Og7chSn5OMA4LpuzCFQGi.1j5bhGtX2q5efo1aARolnbzpZmbNMVO",
+      "firstName": "Akash",
+      "lastName": "Ahmed",
+      "avatar": "uploads/avatar/akash.png",
+      "email": "akash@email.com"
+    },
+    {
+      "id": "ea168626-058e-49dd-b23c-3000e7bd0173",
+      "password": "$2b$08$Og7chSn5OMA4LpuzCFQGi.1j5bhGtX2q5efo1aARolnbzpZmbNMVO",
+      "firstName": "MD",
+      "lastName": "Salahuddin",
+      "avatar": "uploads/avatar/607270927370289259_n.jpg",
+      "email": "salahuddin@email.com"
+    },
+    {
+      "id": "8fea109f-9c4a-45de-8b53-9b6a9a386e02",
+      "password": "$2b$08$usstcONuQ3QEytuzO8NQbe7hA3X4UMHfCdjfzRtiygzIe3exOuUWe",
+      "firstName": "Rambo",
+      "lastName": "Bony",
+      "avatar": "uploads/avatar/avatar-1708802845791-219561000.png",
+      "email": "rambo@email.com",
+      "bio": "I am Rambo!!!"
+    },
+    {
+      "id": "bc773eb2-3aa9-4ee8-a492-90a63f03f822",
+      "password": "$2b$08$5SaZymtE02HmNQiv4EfQtOC9BtdMcS7xfSXHTztMjLCbToZYp0XH6",
+      "firstName": "rokibul ",
+      "lastName": "hasan",
+      "avatar": null,
+      "email": "rhsanto360@gmail.com",
+      "bio": "i am santo"
+    },
+    {
+      "id": "62b7565b-11c0-4eba-9b9e-6128eb439908",
+      "password": "$2b$08$i.iu4QGts6iG2sx7t9xyJODXLRASLOALaDhCLYCn2tqoPQMb5xen6",
+      "firstName": "developer",
+      "lastName": "santo1",
+      "avatar": "uploads/avatar/avatar-1784276755317-349441273.PNG",
+      "email": "developersanto1@gmail.com"
+    },
+    {
+      "id": "654944af-5979-4a26-ae1c-aa9b470a6ca3",
+      "password": "$2b$08$MmKjYuxikpCTicrlZJxuOel2hLYsftGRt1gESqkL2UdK1AD/PIaF.",
+      "firstName": "Test",
+      "lastName": "User",
+      "avatar": null,
+      "email": "test@gmail.com"
+    },
+    {
+      "id": "4bb163a3-b801-4193-89a4-85147334c666",
+      "password": "$2b$08$97rYeV6NhXqzPTR6w75bze/mPRuKBVIy8Kymz/tmvOWUJddK/MDAi",
+      "firstName": "saadh",
+      "lastName": "hasan",
+      "avatar": null,
+      "email": "saadh@gmail.com"
+    },
+    {
+      "id": "87d201b9-9768-4986-aabb-2e679a111243",
+      "password": "$2b$08$vP0.vo2P0zSddC9.sQiMh.DNx3lENJT8D7ZFOFpO2iWjzkUQjDCSm",
+      "firstName": "saadh",
+      "lastName": "Hasan",
+      "avatar": "uploads/avatar/avatar-1789374162989-748369210.jpg",
+      "email": "saadh392@gmail.com",
+      "firstname": "Saad",
+      "bio": "\"I am professional react developer\""
+    },
+    {
+      "id": "0dac02b8-f362-4b08-9938-0128d85dabd4",
+      "password": "$2b$08$6M4Nryr/pHfN8HweGBKbO.ht5B/AeJrqU2di1knOai6giKAtFCL5W",
+      "firstName": "bijoy",
+      "lastName": "hasan",
+      "avatar": null,
+      "email": "bijoy392@gmail.com"
+    },
+    {
+      "id": "7f855307-c974-43c4-ad45-c34b460a0fb0",
+      "password": "$2b$08$eznGU/X7qeYcAfsfz3A8wubf1qE5iFyjnMIDJQp7v5dNfP9PQtLLa",
+      "firstName": "Bijoy",
+      "lastName": "Hasan",
+      "avatar": null,
+      "email": "bijoy@email.com"
+    },
+    {
+      "id": "5e68ae09-7302-4c2e-98ad-b19763fcf7c9",
+      "password": "$2b$08$58KBZ8T9Lxrhta0kNSlUSOq0idp2U1tx6ELhOxZRQKIVvvbVR0nRy",
+      "firstName": "Md Bijoy",
+      "lastName": "Hasan",
+      "avatar": "uploads/avatar/avatar-1789405012151-279778478.jpg",
+      "email": "bijioy@gamil.com",
+      "bio": "Honesty is the best policy\n"
+    }
+  ]
+}
