@@ -3,7 +3,7 @@ import useAxios from "../hooks/useAxios";
 import { useAuth } from "../hooks/useAuth";
 import {useProfile} from "../hooks/useProfile"
 import { actions } from "../actions";
-import ProfileInfo from "../components/profile/profileInfo";
+import ProfileInfo from "../components/profile/ProfileInfo";
 import MyPosts from "../components/profile/MyPosts";
 
 

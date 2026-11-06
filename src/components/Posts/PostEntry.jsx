@@ -7,7 +7,7 @@ import { useAuth } from "../../hooks/useAuth.js";
 import useAxios from "../../hooks/useAxios.js";
 import { usePost } from "../../hooks/usePost.js";
 import { useProfile } from "../../hooks/useProfile.js";
-import Field from "../Common/Field";
+import Field from "../common/Field";
 
 export default function PostEntry({ onCreate, post }) {
   const { auth } = useAuth();
